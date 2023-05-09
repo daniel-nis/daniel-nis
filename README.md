@@ -1,4 +1,8 @@
-### Hi there, I'm Daniel 👋
+<h3 align="center">
+  Hi there, I'm Daniel 👋
+</h3>
+ 
+<a href="https://www.linkedin.com/in/danielnis/"><img align="left" src="https://raw.githubusercontent.com/daniel-nis/daniel-nis/main/images/linkedin.png" alt="Daniel Nissan | LinkedIn" width="21px"/></a>
 
 <!--
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-nis&show_icons=true&theme=dracula">
