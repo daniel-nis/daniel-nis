@@ -3,8 +3,8 @@
 </h3>
 
 <p>
-  I am a full-stack developer and recent graduate from UCR who is experienced in TypeScript, Java, Python, Angular, React, and much more!
- </p>
+  I am a full-stack developer and a grad student at UT Austin. I am experienced in TypeScript, Java, Python, Angular, React, and much more!
+</p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
